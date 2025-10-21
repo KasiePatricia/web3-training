@@ -798,19 +798,19 @@ I went beyond the basic task:
 - [Consensus Mechanisms - Ethereum.org](https://ethereum.org/en/developers/docs/consensus-mechanisms/) - Detailed comparison
 
 ### Video Tutorials I Found Helpful
-- "Blockchain Basics Explained" - YouTube (15 min overview that clarified concepts)
-- "Solidity Tutorial for Beginners" - Helped with syntax understanding
-- "Remix IDE Complete Guide" - Showed advanced features I'll use later
+- [Blockchain Basics Explained](https://www.youtube.com/watch?v=QJn28fFKUR0) - YouTube (15 min overview that clarified concepts)
+- [Solidity Tutorial for Beginners](https://www.youtube.com/watch?v=AYpftDFiIgk) - Helped with syntax understanding
+- [Remix IDE Complete Guide](https://www.youtube.com/watch?v=owEsXh7gN2E) - Showed advanced features I'll use later
 
 ### Articles & Blogs
-- "Proof of Work vs Proof of Stake" - CoinDesk (good comparison)
-- "How Ethereum Consensus Works" - Ethereum Foundation blog
-- "Smart Contract Best Practices" - ConsenSys (preview of security topics)
+- [Proof of Work vs Proof of Stake](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coindesk.com/learn/proof-of-work-vs-proof-of-stake-what-is-the-difference&ved=2ahUKEwjErq6r57OQAxUNUEEAHW5UBXgQFnoECCIQAQ&usg=AOvVaw23GraBnMXzk9Uw6RuGyp0w) - CoinDesk (good comparison)
+- [How Ethereum Consensus Works](https://ethereum.org/developers/docs/consensus-mechanisms/) - Ethereum 
+- [Smart Contract Best Practices](https://consensysdiligence.github.io/smart-contract-best-practices/) - ConsenSys (preview of security topics)
 
 ### Community Resources
-- Ethereum Stack Exchange - Found answers to specific questions
-- r/ethdev on Reddit - Saw what problems other beginners face
-- WIBA Mentorship Discord - Asked questions and got mentor guidance
+- [Ethereum Stack Exchange](https://ethereum.stackexchange.com) - Found answers to specific questions
+- [r/ethdev on Reddit](https://www.reddit.com/r/ethdev/) - Saw what problems other beginners face
+- WIBA Mentorship WhatsApp - Asked questions and got mentor guidance
 
 ---
 
@@ -860,9 +860,6 @@ I should document my thought process as I write code, not just after. This will 
 **2. Ask More Questions**
 I hesitated to ask some questions during mentor sessions. Next week, I'll be more proactive - there are no dumb questions.
 
-**3. Connect With Other Mentees**
-I mostly worked solo this week. Collaborating with peers could expose me to different approaches and learning styles.
-
 **4. Read More Source Code**
 I should study more existing smart contracts to see how experienced developers structure their code.
 
@@ -899,7 +896,7 @@ Contracts aren't updated in place; you deploy new versions. This explained why e
 - [ ] Start building my smart contract portfolio on GitHub
 
 **Community Goals:**
-- [ ] Participate actively in Discord discussions
+- [ ] Participate actively in WhatsApp discussions
 - [ ] Help at least one other mentee with a problem
 - [ ] Ask at least 3 thoughtful questions during mentor sessions
 
