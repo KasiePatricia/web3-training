@@ -61,3 +61,4 @@ Equip mentees with the skills to design, build, and deploy blockchain systems, d
 > ⚠️ **Disclaimer:**  
 > This curriculum is flexible. Depending on mentees’ prior knowledge and experience, mentors may adjust, combine, or skip modules to ensure the learning journey is practical, engaging, and suited to the group’s level.  
 > Blog posts are strongly encouraged but can vary in depth (short reflections or detailed case studies).
+ki
